@@ -47,6 +47,7 @@
     "gulp-coffeelint": "^0.4.0",
     "gulp-plumber": "^0.6.6",
     "gulp-util": "^3.0.1",
-    "node-notifier": "^4.0.2"
+    "node-notifier": "^4.0.2",
+    "run-sequence": "^1.0.1"
   }
 }
