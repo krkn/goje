@@ -13,6 +13,9 @@
 # Clean : generate a clean task
 exports.clean = require "./tasks/clean.js"
 
+# Coffee : lint, compile and minify
+exports.coffee = require "./tasks/coffee.js"
+
 # Stylus : compile and minify
 exports.stylus = require "./tasks/stylus.js"
 
