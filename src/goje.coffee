@@ -13,5 +13,8 @@
 # Clean : generate a clean task
 exports.clean = require "./tasks/clean.js"
 
+# Stylus : compile and minify
+exports.stylus = require "./tasks/stylus.js"
+
 # Task : expose gulp task method, with sequence boolean
-exports.task = ( sName, mActions, bSequence = no ) ->
+exports.task = require "./tasks/task.js"
