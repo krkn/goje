@@ -2,7 +2,6 @@
 
 [![NPM version](http://img.shields.io/npm/v/goje.svg)](https://www.npmjs.org/package/goje) ![Dependency Status](https://david-dm.org/krkn/goje.svg) ![Downloads counter](http://img.shields.io/npm/dm/goje.svg)
 
-
 > Our gulp stack, made easy to reuse
 
 * * *
