@@ -9,3 +9,6 @@
 ###
 
 "use strict"
+
+# Clean : generate a clean task
+exports.clean = require "./tasks/clean.js"

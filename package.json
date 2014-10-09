@@ -41,6 +41,7 @@
   "devDependencies": {},
   "dependencies": {
     "coffee-script": "^1.8.0",
+    "del": "^0.1.3",
     "gulp": "^3.8.8",
     "gulp-coffee": "^2.2.0",
     "gulp-coffeelint": "^0.4.0",
